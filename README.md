@@ -34,4 +34,4 @@ You will also see any lint errors in the console.
 
 ###### Prerequisite
 
-git clone:
+git clone:https://github.com/rohit-singh-hitman/ituness
