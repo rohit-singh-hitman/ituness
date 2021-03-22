@@ -30,3 +30,8 @@ You will also see any lint errors in the console.
  10.React router.\
  11.Reselect as the selector library for redux.\
 
+
+
+###### Prerequisite
+
+git clone:
