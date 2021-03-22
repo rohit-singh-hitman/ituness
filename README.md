@@ -18,14 +18,15 @@ You will also see any lint errors in the console.
 
 
 #### Technologies used in this Project
- 
- 1.React Hooks
- 2.Reduxsauce
- 3.Apisauce
- 4.Redux-saga
- 5.Styled components
- 6.Ant-design as component library
- 7.React-intl for localisation
- 8.React router
- 9.Reselect as the selector library for redux
+ 1.React.\
+ 2.React Hooks.\
+ 3.redux.\
+ 4.Reduxsauce.\
+ 5.Apisauce.\
+ 6.Redux-saga.\
+ 7.Styled components.\
+ 8.Ant-design as component library.\
+ 9.React-intl for localisation.\
+ 10.React router.\
+ 11.Reselect as the selector library for redux.\
 
