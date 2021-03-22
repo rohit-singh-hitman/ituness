@@ -1,0 +1,21 @@
+
+{
+    "hello":"Hallo-Nachrichten",
+    
+    "home":"Startseite",
+    "search":"Suche",
+    "favourites":"Favoriten",
+    "list":"Liste",
+    "app":"App",
+    "edit":"Ant Design ©{val} Erstellt von Ant UED",
+    "placeholder":"Suchlieder",
+    "result":"Suchergebnisse",
+    "title":"Name der Songs:{data}",
+        "description":"Künstlername ist:{value}",
+        "various":"Variouns Künstler",
+        "music_desc":"Musik ist die Kunst, Klänge in der Zeit zu arrangieren, um eine Komposition durch die Elemente Melodie, Harmonie, Rhythmus und Klangfarbe zu erzeugen.",
+        "music_title":"MUSIK PRO",
+        "button":"Suche"
+} 
+
+

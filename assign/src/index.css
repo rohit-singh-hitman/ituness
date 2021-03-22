@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    
+    font-family: 'Mulish', sans-serif;
+    padding:0;
+    box-sizing:border-box;
+  }
+  .navbar{
+    background-color: #fff !important;
+  }
+  
+  .navbar-brand{
+    font-size: 5rem !important;
+    font-weight: 500 !important;
+    color:#565387 !important;
+    text-transform: capitalize !important;
+  }
+  .menu_active{
+    font-weight: bold !important;
+    border-bottom: 1px solid black !important;
+  }
+  .navbar a{
+    font-size: 1.3rem !important;
+    text-transform: capitalize !important;
+  }
+  .navbar a:hover{
+    color:#3498db !important;
+  }
+  
+  @media (max-width: 991px){
+    .navbar-brand{
+      font-size: 1.5rem !important;
+    }
+    .menu_active{
+      font-weight: bold !important;
+      border-bottom: none !important;
+    }
+  }
+  
+  #header{
+    width: 100%;
+    height:80vh;
+    margin-top: 70px;
+  }
+  #header h1{
+    margin:0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    color:black;
+  }
+   #header .brand-name{
+    color:#3498db;
+    
+    
+  }
+  #header h2{
+   
+    font-size: 24px;
+    
+    color:#484848;
+  }
+  #header .btn-get-started{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding:10px 30px;
+    
+    border-radius: 50px;
+    transition: 0.5s;
+    color:#3498db;
+    border: 2px solid #3498db !important;
+    text-decoration: none;
+  }
+  #header .btn-get-started:hover{
+    color:#fff;
+    background-color: #3498db;
+  }
+  .header-img{
+    align-items: right;
+    margin-bottom: 5px;
+  }
+  #header .animated{
+    animation: up-down 2s ease-in-out infinite alternate-reverse both;
+  
+  }
+  @-webkit-keyframes up-down{
+    0%{
+      transform: translateX(10px);
+    }
+    100%{
+      transform: translateX(-10px);
+    }
+  }
+  @keyframes up-down{
+    0%{
+      transform: translateX(10px);
+    }
+    100%{
+      transform: translateX(-10px);
+    }
+  }
+  .footer{
+    
+    margin-top: 10px;
+    
+    width:100%;
+    background-color: lightslategrey;
+  
+  }

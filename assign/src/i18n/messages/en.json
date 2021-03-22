@@ -1,0 +1,23 @@
+
+{
+        "hello":"hello messages",
+        
+        "home":"Home",
+        "search":"Search",
+        "favourites":"Favourites",
+        "list":"List",
+        "app":"App",
+        "edit":"Ant Design ©{val} Created by Ant UED",
+        "placeholder":"Search Songs",
+        "result":"Search Results",
+        "title":"Songs Name:{data}",
+        "description":"artist name is:{value}",
+        "various":"Various Artist",
+        "music_desc":"Music is the art of arranging sounds in time to produce a composition through the elements of melody, harmony, rhythm, and timbre.",
+        "music_title":"MUSIC PRO",
+        "button":"Search"
+
+
+
+        
+    }

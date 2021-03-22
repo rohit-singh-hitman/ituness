@@ -1,0 +1,23 @@
+
+
+
+    {
+        "hello":"bonjour les messages",
+        
+        "home":"Accueil",
+        "search":"rechercher",
+        "favourites":"Favoris",
+        "list":"Liste",
+        "app":"Application",
+        "edit":"Ant Design ©{val} Créé par Ant UED",
+        "placeholder":"Rechercher des chansons",
+        "result":"résultats de recherche",
+        "title":"nom des chansons:{data}",
+        "description":"nom de l’artiste est:{value}",
+        "various":"divers artistes",
+        "music_desc":"La musique est l’art d’arranger les sons à temps pour produire une composition à travers les éléments de mélodie, d’harmonie, de rythme et de timbre.",
+        "music_title":"MUSIQUE PRO",
+        "button":"rechercher"
+} 
+
+
